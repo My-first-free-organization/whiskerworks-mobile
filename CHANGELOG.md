@@ -1,4 +1,4 @@
 # Changelog
 
-## Sprint 128
-- mobile: maintenance and dependency updates (2026-11-20 17:07)
+## Sprint 129
+- mobile: maintenance and dependency updates (2026-11-23 06:56)
